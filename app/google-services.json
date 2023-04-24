@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "249438895037",
+    "project_id": "fir-app-1bc53",
+    "storage_bucket": "fir-app-1bc53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249438895037:android:10301fe4118aba8721b0d4",
+        "android_client_info": {
+          "package_name": "com.example.midmorningfirebasedatabaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249438895037-pm326c9jn5n2oumcc09c3h696lf2k34g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwGN3-OGMYVIUt-dlZrrNaUtD4D1RWwB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249438895037-pm326c9jn5n2oumcc09c3h696lf2k34g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

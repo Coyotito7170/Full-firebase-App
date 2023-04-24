@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-pngs-28:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-pngs-28:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-pngs-28:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-pngs-28:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/layout_user_layout.xml.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-main-35:/layout/user_layout.xml"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-pngs-28:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-main-35:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-pngs-28:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-pngs-28:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-pngs-28:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/layout_activity_users.xml.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-main-35:/layout/activity_users.xml"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/xml_backup_rules.xml.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.midmorningfirebasedatabaseapp-merged_res-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.midmorningfirebasedatabaseapp-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    }
+]
